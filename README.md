@@ -1,2 +1,3 @@
 # data_structure
-projects of data structure course 
+This repository is related to assignments and project of data structure course. 
+
